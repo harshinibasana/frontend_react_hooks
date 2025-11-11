@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend_react_hooks/static/css/main.0c3d432b.css",
+    "main.js": "/frontend_react_hooks/static/js/main.607e4520.js",
+    "index.html": "/frontend_react_hooks/index.html",
+    "main.0c3d432b.css.map": "/frontend_react_hooks/static/css/main.0c3d432b.css.map",
+    "main.607e4520.js.map": "/frontend_react_hooks/static/js/main.607e4520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c3d432b.css",
+    "static/js/main.607e4520.js"
+  ]
+}

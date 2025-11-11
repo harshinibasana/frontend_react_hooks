@@ -1,0 +1,2 @@
+:root{--bg:#fff;--text:#000}[data-theme=dark]{--bg:#111;--text:#eee}body{background:#fff;background:var(--bg);color:#000;color:var(--text);font-family:Arial}.card{background:#ddd;border-radius:8px;margin:1rem;padding:1rem}
+/*# sourceMappingURL=main.0c3d432b.css.map*/
